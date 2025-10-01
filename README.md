@@ -6,9 +6,7 @@
 This is a simple static website created for Task 6 of my DevOps internship. It demonstrates how to host static content using GitHub Pages.
 
 ### 🚀 Live Website
-**Live URL:** https://yourusername.github.io/devops-task6-website/
-
-*(Replace "yourusername" with your actual GitHub username)*
+Live URL:(https://imyadavankit.github.io/devops-task6-website/)
 
 ### 📁 Files
 - `index.html` - Main HTML file
